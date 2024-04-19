@@ -5,7 +5,7 @@
 - <b>S.A.G.E- a chatbot for mental well-being</b>
   - [S.A.G.E](https://github.com/wowstein/S.A.G.E)
 - <b>Football Event Extractor</b>
-  - [Event clips extraction using CNN-Lstm model](https://github.com/wowstein/ICT-internship) </b></i>
+  - [Event clips extraction using CNN-Lstm model](https://github.com/wowstein/Football-Event-Extraction) </b></i>
 
 <h2>⚡Certifications</h2>
 
