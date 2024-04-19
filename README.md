@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antony! <br/><a href="https://github.com/wowstein">Programmer</a> and <a href="www.linkedin.com/in/antony-dominic-a934a027a">Machine Learning Intern</a>
+<h1>Hi, I'm Antony! <br/><a href="https://github.com/wowstein">Programmer</a> and <a href="https://github.com/wowstein">Machine Learning Intern</a>
 
 <h2>👨‍💻 Machine Learning Projects:</h2>
 
@@ -7,7 +7,7 @@
 - <b>Football Event Extractor</b>
   - [Event clips extraction using CNN-Lstm model](https://github.com/wowstein/Football-Event-Extraction) </b></i>
 
-<h2>⚡Certifications</h2>
+<h2>⚡Certifications:</h2>
 
 - [Supervised Machine Learning- Stanford online](https://www.coursera.org/account/accomplishments/verify/2FAQWH4U638N)
 - [Certified Specialist in Machine Learning and Artificial Intelligence](https://retail.ictkerala.org/mod/simplecertificate/verify.php?code=65b89785-6d24-4e19-ba7e-1cf12d4f065b)
