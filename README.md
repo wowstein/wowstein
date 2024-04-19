@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi, I'm Antony! <br/><a href="https://github.com/wowstein">Programmer</a> and <a href="www.linkedin.com/in/antony-dominic-a934a027a">Machine Learning Intern</a>
 
-<!--
-**wowstein/wowstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Machine Learning Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>S.A.G.E- a chatbot for mental well-being</b>
+  - [S.A.G.E](https://github.com/wowstein/S.A.G.E)
+- <b>Football Event Extractor</b>
+  - [Event clips extraction using CNN-Lstm model](https://github.com/wowstein/ICT-internship) </b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>⚡Certifications</h2>
+
+- [Supervised Machine Learning- Stanford online](https://www.coursera.org/account/accomplishments/verify/2FAQWH4U638N)
+- [Certified Specialist in Machine Learning and Artificial Intelligence](https://retail.ictkerala.org/mod/simplecertificate/verify.php?code=65b89785-6d24-4e19-ba7e-1cf12d4f065b)
+- [Internship at ICTAK](https://retail.ictkerala.org/mod/simplecertificate/verify.php?code=660be8ca-e64c-493a-9612-707b2d4f065b)
+
+<h2> 🤳 Connect with me:</h2>
+
+- [Linkedin](https://www.linkedin.com/in/antony-dominic-a934a027a/)
