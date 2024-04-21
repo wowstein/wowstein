@@ -11,7 +11,7 @@
 
 - [Supervised Machine Learning- Stanford online](https://www.coursera.org/account/accomplishments/verify/2FAQWH4U638N)
 - [Certified Specialist in Machine Learning and Artificial Intelligence](https://retail.ictkerala.org/mod/simplecertificate/verify.php?code=65b89785-6d24-4e19-ba7e-1cf12d4f065b)
-- [Internship at ICTAK](https://retail.ictkerala.org/mod/simplecertificate/verify.php?code=660be8ca-e64c-493a-9612-707b2d4f065b)
+- [ML Internship at ICTAK](https://retail.ictkerala.org/mod/simplecertificate/verify.php?code=660be8ca-e64c-493a-9612-707b2d4f065b)
 
 <h2> 🤳 Connect with me:</h2>
 
