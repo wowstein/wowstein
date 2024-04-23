@@ -31,4 +31,4 @@ From Zoology to AI !! 🤩. I’m absolutely thrilled! 🌟
 
 <h2> 🤳 Connect with me:</h2>
 
-- [Linkedin](https://www.linkedin.com/in/antony-dominic-a934a027a/)
+- [Linkedin](https://www.linkedin.com/in/antonydominic-ay/)
