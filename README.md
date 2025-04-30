@@ -9,8 +9,8 @@
 
 <h2>👨‍💻 Recipe Hub:</h2>
 
-- <b>Recipe hub - a website for your favourite recipes</b>
-  - [Recipeh hub](https://github.com/wowstein/Recipehub_Designathon)
+- <b>Recipe Hub - a website for your favourite recipes</b>
+  - [Recipe Hub](https://github.com/wowstein/Recipehub_Designathon)
   
 <h2>⚡Certifications:</h2>
 
